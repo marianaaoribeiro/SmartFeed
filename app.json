@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "CP04-RelatorioCovid",
-    "slug": "CP04-RelatorioCovid",
+    "name": "SmartFeed",
+    "slug": "SmartFeed",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -26,7 +26,7 @@
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/smartfeed.png"
     }
   }
 }
